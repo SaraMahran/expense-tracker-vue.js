@@ -1,5 +1,10 @@
 # vue-expense-tracker
 
+This is an expense tracker application, developed using Vue.js.
+You can view the application from here:
+
+https://expensetrackerwithvue.netlify.app/
+
 This template should help get you started developing with Vue 3 in Vite.
 
 ## Recommended IDE Setup
